@@ -3,9 +3,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
   🐸
 </h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer;Digital+Artist+%26+Illustrator;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=20&duration=3000&pause=1000&color=00C4FF&background=000000&center=true&vCenter=true&width=500&lines=Welcome+to+My+Profile!;>+Developer;>+Illustrator" alt="Typing SVG" />
 </p>
+
 
 
 <p align="center">
