@@ -8,14 +8,8 @@
 </p>
 
 
-<h3 align="center">🚀 Developer | 🎨 Illustrator </h3>
-
 <p align="center">
-  <img src="./media/dreams.gif" width="500px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mario7w78&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top langs" />
+  <img src="./media/dreams.gif" width="300px"/>
 </p>
 
 <p align="center">
