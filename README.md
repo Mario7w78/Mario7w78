@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=20&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&lines=>+Welcome+!!;>+Frontend+and+Android+Developer+In+progress;>+Learning+and+building+projects+to+improve+my+skills;>+Digital+Artist+@mario7w78" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=20&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&lines=>+Welcome+!!;>+Frontend+/+Android+Developer+in+progress;>+Learning+and+building+projects+to+improve+my+skills;>+Digital+Artist+@mario7w78" alt="Typing SVG" />
     </td>
   </tr>
 </table>
